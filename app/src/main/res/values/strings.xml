@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">BhiwaniTravels</string>
+
+    <string name="tab1">Attractions</string>
+    <string name="tab2">Shop</string>
+    <string name="tab3">Institutes</string>
+    <string name="tab4">About</string>
+
+
+    <string name="welcome">Welcome To Bhiwani Tour Guide App!</string>
+
+
+    <string name="attractname1">Sun City Cinemas</string>
+    <string name="attractdesc1">Sun City is a mall situated near Huda Park Road, Patel Nagar, Bhiwani.
+        It is famous for its food court and cinema theatre.
+    </string>
+    <string name="attractname2">Vatika Bar and Food Restaurant</string>
+    <string name="attractdesc2">It is a resto-cum-bar situated at Housing Board Colony, Near Court, Bhiwani.
+        It has a really nice ambience and is famous for Chinese food specially.
+    </string>
+    <string name="attractname3">Bheem Stadium</string>
+    <string name="attractdesc3">This stadium is situated at Housing Board Colony, Bhiwani.
+        The most famous place where you\'ll find many new upcoming sportsmen doing their daily practice.
+    </string>
+    <string name="attractname4">Jat Dharamshala</string>
+    <string name="attractdesc4">This is situated near Vaish College, Bhiwani.
+        You can book these huge halls at affordable prices as this is not just a place for tourists but also famous for its Banquet, Birthday Parties, Community and Marriage Halls.
+    </string>
+    <string name="attractname5">Mini Zoo</string>
+    <string name="attractdesc5">It is situated at Indira Nagar, Huda Park Road, Bhiwani. It is established with a view to achieve conservation education.
+        School field trips are organized here to teach them about species.
+    </string>
+
+
+    <string name="instname1">The Technological Institute Of Textiles And Sciences College</string>
+    <string name="instdesc1">This coleege is situated at Birla Colony, Bhiwani.
+        It\'s aim is high quality technical education and practical expertise.
+        It has served the industry for more than 70 Years and continues to do so.
+    </string>
+    <string name="instname2">Bhiwani Public School</string>
+    <string name="instdesc2">It is situated at Bhiwani - Hansi Road, Park Colony, Vijay Nagar, Bhiwani.
+        It is an English Medium Co-Educational Senior Secondary School affiliated to CBSE.
+    </string>
+    <string name="instname3">Women Police Station</string>
+    <string name="instdesc3">It is situated near Police Lines Residential Area.</string>
+    <string name="instname4">Chaudhary Bansi Lal University</string>
+    <string name="instdesc4">It is situated at B T M Colony, Opposite-Education Board, Bhiwani.
+        It is a state university established in 2014 that offers postgraduate courses in various disciplines.
+    </string>
+
+
+    <string name="shopname1">Eaza Restaurant</string>
+    <string name="shopdesc1">It is situated at State Highway 14, Near Adarsh College, Bhiwani.
+        It is a family restaurant famous for it\'s mouth-watering South Indian Food.</string>
+    <string name="shopname2">Much More Footwear</string>
+    <string name="shopdesc2">It is situated at Naya Bazar, Housing Board Colony, Bhiwani.
+        It is a top company in the category of Shoe Dealers, also known for Women Shoe Dealers, Shoe Material Dealers and much more.
+    </string>
+    <string name="shopname3">Chatpati Chaap Restaurant</string>
+    <string name="shopdesc3">It is situated near Bank of Baroda, Impromant Market, Opposite to shop no. 2.
+        It sells best Chaap across the place at really decent price which is why you\'ll never find this place empty.
+    </string>
+    <string name="shopname4">Lakshmi Bikaner Misthan Bhandar</string>
+    <string name="shopdesc4">It is situated at SH 14, Naya Bazaar, Housing Board Colony, Bhiwani.
+        It sells the best sweets and gujrati dish \'Dhokla\'. It also takes contract offers.
+    </string>
+    <string name="shopname5">China Town</string>
+    <string name="shopdesc5">It is situated at Krishna Colony, Bhiwani. If you are a fast food lover, then this is the perfect place for you.
+        It has a vast variety of fast food restaurants and eating joints. There\'s nothing that you will fail to find here.
+    </string>
+    <string name="shopname6">Hari Collection</string>
+    <string name="shopdesc6">It is situated at Krishna Colony, Bhiwani. It is one of the best place to shop for trending dresses and suits at reasonable prices.</string>
+
+    <string name="madeby">Developed by: Yashika Kalra</string>
+    <string name="describe">Hello, Welcome to Bhiwani, also known as \'Choti Kashi\'. If you love spicy food and love to travel to religious places,
+        this is the place you must visit. So, don\'t wait add this place to your dream places right now. :p\n\n
+
+        Bhiwani is a city and a municipal council in Bhiwani district in the state of Haryana, India.
+        Besides being a seat of spiritual learning, the city is at the centre of regional politics and hometown of three former Haryana chief ministers:
+        Bansi Lal, Banarsi Dass Gupta and Hukum Singh.\n\n
+
+        As of 2001 India census, Bhiwani had a population of 1634445. Males constitute 54% of the population and females 46%.
+        Bhiwani has an average literacy rate of 69%, higher than the national average of 59.5%; with male literacy of 76% and female literacy of 62%.
+        13% of the population is under 7 years of age.\n
+    </string>
+
+
+</resources>
